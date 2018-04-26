@@ -63,5 +63,11 @@ dist
 # upload
 upload
 
+# db
+db
+
+package-lock.json
+.gitignore
+
 # config file
 src/config/index.pro.js
