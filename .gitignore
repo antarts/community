@@ -71,3 +71,4 @@ package-lock.json
 
 # config file
 src/config/index.pro.js
+ecosystem.config.js
